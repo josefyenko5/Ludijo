@@ -1692,12 +1692,12 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 0.99999994}
   m_Children:
   - {fileID: 1691405730523502294}
-  - {fileID: 1673014196458965483}
   - {fileID: 6808557712139848375}
   - {fileID: 6687935089377672625}
+  - {fileID: 1673014196458965483}
+  - {fileID: 7851195892127792988}
   - {fileID: 6486871702708817329}
   - {fileID: 737119302529858609}
-  - {fileID: 7851195892127792988}
   m_Father: {fileID: 8898139309439674776}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2050,7 +2050,7 @@ Transform:
   m_Children:
   - {fileID: 4569892023164178645}
   m_Father: {fileID: 558418780889695507}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: -123.07, y: 89.972, z: 0.9149933}
 --- !u!1 &4721797840782033086
 GameObject:
@@ -2216,7 +2216,7 @@ Transform:
   m_Children:
   - {fileID: 8227405477363492148}
   m_Father: {fileID: 558418780889695507}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -39.318, y: 52.123, z: 25.609}
 --- !u!1 &5352085868127944072
 GameObject:
@@ -2247,7 +2247,7 @@ Transform:
   m_Children:
   - {fileID: 1218793088771081353}
   m_Father: {fileID: 558418780889695507}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: -29.25, y: 43.02, z: -100.744}
 --- !u!1 &5382088536292186135
 GameObject:
@@ -2278,7 +2278,7 @@ Transform:
   m_Children:
   - {fileID: 5190889174535729737}
   m_Father: {fileID: 558418780889695507}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: -54.037, y: 20.395, z: 74.183}
 --- !u!1 &5674168178925284643
 GameObject:
@@ -2741,7 +2741,7 @@ Transform:
   m_Children:
   - {fileID: 2532026315050844911}
   m_Father: {fileID: 558418780889695507}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: -1.972, y: 52.649, z: -52.245}
 --- !u!1 &6147344144653902597
 GameObject:
@@ -3542,7 +3542,7 @@ Transform:
   m_Children:
   - {fileID: 1300665155393791895}
   m_Father: {fileID: 558418780889695507}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: -28.646, y: 73.553, z: -137.7}
 --- !u!1 &8535200723480456145
 GameObject:
