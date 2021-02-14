@@ -7522,6 +7522,25 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4519282631701236, guid: 386f40ad68cdd3c4fbcb471ef2d93772, type: 3}
   m_PrefabInstance: {fileID: 1146700452}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1147522996 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1069567032315564, guid: bdf8e7438a7816543998181bd3067573, type: 3}
+  m_PrefabInstance: {fileID: 1695103466}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1147522999
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1147522996}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 264414c28ea0fbb41b924fd17d9228b3, type: 3}
 --- !u!1001 &1156114597
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13558,6 +13577,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2080300836258013119, guid: 5bcdb465b8c9d414787c92f3cb7389b4, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 522811754}
     - target: {fileID: 5915439569904723092, guid: 5bcdb465b8c9d414787c92f3cb7389b4, type: 3}
       propertyPath: m_Name
       value: Ant
@@ -13572,7 +13595,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5915439569904723093, guid: 5bcdb465b8c9d414787c92f3cb7389b4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.242
+      value: 0.032
       objectReference: {fileID: 0}
     - target: {fileID: 5915439569904723093, guid: 5bcdb465b8c9d414787c92f3cb7389b4, type: 3}
       propertyPath: m_LocalPosition.z
